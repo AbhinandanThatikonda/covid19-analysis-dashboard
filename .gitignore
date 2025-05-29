@@ -1,0 +1,9 @@
+# Jupyter and Python junk
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Environment or secret files
+.env
